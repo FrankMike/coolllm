@@ -1,0 +1,9 @@
+Django
+daphne
+langchain
+langchain-community
+channels
+python-dotenv
+aiohttp
+django-cors-headers
+openai
